@@ -24,5 +24,5 @@ The command get 500 peoples randomly, if people not in db, people add.
 ```
 !!uga                  - get 500 peoples randomly 
 !!ga <time_in_minute>  - get 500 peoples randomly every x time
-!!kill                 - stop !!ga command in chanel 
+!!kill                 - stop !!ga command in channel 
 ```
