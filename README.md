@@ -19,7 +19,7 @@ The command get 500 peoples randomly, if people not in db, people add.
 
 <br>
 
-## How to use ?
+## How to use command?
 ```
 !!uga                  - get 500 peoples randomly 
 !!ga <time_in_minute>  - get 500 peoples randomly every x time
