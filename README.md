@@ -14,7 +14,8 @@ pip install discord.py-self
 
 ## Features
 
-The script get the sender of all message sended in you discord server list. <br>
+The script get the sender of all message sended in you discord server list and save it on db. <br>
+The script save username change and display username change separate with ';;;'. <br>
 The command get 500 peoples randomly, if people not in db, people add.
 
 <br>
